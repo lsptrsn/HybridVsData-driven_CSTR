@@ -17,3 +17,6 @@ Each directory contains its own README file with more detailed instructions on h
 ## Getting Started
 
 Please refer to the README files in each directory for instructions on how to use the models.
+
+## License
+This material is licensed under the MIT [LICENSE](LICENSE) and is free and provided as-is.
