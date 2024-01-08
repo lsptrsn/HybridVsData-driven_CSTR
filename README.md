@@ -18,5 +18,9 @@ Each directory contains its own README file with more detailed instructions on h
 
 Please refer to the README files in each directory for instructions on how to use the models.
 
+## Dependencies
+
+For reproducibility, we have stored all dependencies and their versions in `environment.yml`. An virtual enviornment, namely `ptx_env' can be created using `conda` by using `conda env create -f environment.yml`.
+
 ## License
 This material is licensed under the MIT [LICENSE](LICENSE) and is free and provided as-is.
