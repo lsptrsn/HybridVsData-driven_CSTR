@@ -1,15 +1,28 @@
 name: ptx_env
 channels:
+  - conda-forge
+  - pytorch
+  - anaconda
   - defaults
 dependencies:
-  - python=3.10
-  - spyder
-  - torchaudio
-  - torchvision
-  - cudatoolkit=10.1
-  - notebook
-  - matplotlib
-  - missingno
-  - scipy==1.9.1
-  - pandas
-  - seaborn
+  - matplotlib=3.5.2
+  - numpy=1.21.5
+  - pip=22.1.2
+  - seaborn=0.12.2
+  - spyder=5.3.3
+  - pip:
+      - casadi==3.5.6.pre2
+      - denseweight==0.1.2
+      - joblib==1.1.1
+      - keras==2.8.0
+      - keras-preprocessing==1.1.2
+      - pandas==1.4.4
+      - path==16.6.0
+      - scikit-learn==1.2.0
+      - scikit-optimize==0.9.0
+      - scipy==1.9.1
+      - torch==1.11.0+cu113
+      - torchaudio==0.11.0+cu113
+      - torchmetrics==0.10.0
+      - torchtest==0.5
+      - torchvision==0.12.0+cu113
