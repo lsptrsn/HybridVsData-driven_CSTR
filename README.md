@@ -1,4 +1,4 @@
-This repository contains the code and routines used in the manuscript "Questioning modeling expectations: A critical analysis of data-driven and hybrid models exemplified in $\mathrm{CO_2}$ methanation".
+This repository contains the code and routines used in the manuscript "Challenges in reactor modeling using operational data: A critical analysis of data-driven and hybrid models".
 
 ## Abstract
 
